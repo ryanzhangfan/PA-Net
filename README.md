@@ -4,3 +4,6 @@ This is an implementation of [Path Aggregation Network for Instance Segmentation
 ![Instance Segmentation Sample](assets/street.png)
 
 To start up with this repo, please follow up the tutorial of [Mask RCNN README.md](https://github.com/matterport/Mask_RCNN/blob/master/README.md). The usage of both repos are same.
+
+## **TODO**
+- [ ] Test on benchmarks like COCO or cityscapes
